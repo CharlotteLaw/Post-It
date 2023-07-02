@@ -7,7 +7,8 @@ Post-It is a full-stack web application that allows users to create accounts, **
 * Programmed using Typescript 
 * Deployed PostgreSQL database on [Railway](https://railway.app/)
 * Used NextAuth.js for creating and authorizing users
-* Used [Prisma](https://authjs.dev/reference/adapter/prisma) as an adapter for NextAuth.js to connect to the PostgreSQL database. 
+* Used [Prisma](https://authjs.dev/reference/adapter/prisma) as an adapter for NextAuth.js to connect to the PostgreSQL database.
+* Used Google API to allow authorize user sign in using gmail 
 
 **Front End**
 * Embedded HTML and CSS within Typescript as the web application
@@ -29,10 +30,13 @@ pnpm dev
 
 4. Navigate your browser to [http://localhost:3000](http://localhost:3000) to see the web application!
 
-
+**Disclaimer:**  This project is still a work in progress.   
 
 ## Program Preview
 
+<img width="1433" alt="image" src="https://github.com/CharlotteLaw/Post-It/assets/69742430/9e219209-5b2f-4f50-8d53-ced3ceda5c76">
 
-**Disclaimer:**  This project is still a work in progress. 
+
+
+
 
