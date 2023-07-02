@@ -18,7 +18,7 @@ Post-It is a full-stack web application that allows users to create accounts, **
 
 1. git clone the repo
 2. Open terminal
-3. Run the development server:
+3. Run the development server
 
 ```bash
 npm run dev
