@@ -8,7 +8,7 @@ Post-It is a full-stack web application that allows users to create accounts, **
 * Deployed PostgreSQL database on [Railway](https://railway.app/)
 * Used NextAuth.js for creating and authorizing users
 * Used [Prisma](https://authjs.dev/reference/adapter/prisma) as an adapter for NextAuth.js to connect to the PostgreSQL database.
-* Used Google API to allow authorize user sign in using gmail 
+* Used Google OAuth API to authorize user sign ins using gmail 
 
 **Front End**
 * Embedded HTML and CSS within Typescript as the web application
